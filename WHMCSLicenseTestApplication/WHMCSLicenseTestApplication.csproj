@@ -95,7 +95,7 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\WHMCSLicenceValidator\WHMCSLicense.csproj">
+    <ProjectReference Include="..\WHMCSLicenseValidator\WHMCSLicense.csproj">
       <Project>{CA85CC0B-3268-41B2-85BE-67ED0BF6F09D}</Project>
       <Name>WHMCSLicense</Name>
     </ProjectReference>

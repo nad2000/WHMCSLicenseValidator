@@ -1,6 +1,9 @@
 syntax: glob
 WHMCSLicenceValidator.suo
 WHMCSLicenceValidator/bin/
+WHMCSLicenseValidator.suo
+WHMCSLicenseValidator/bin/
 WHMCSLicenseTestApplication/bin/
 WHMCSLicenseTestApplication/obj/
 WHMCSLicenceValidator/obj/
+WHMCSLicenseValidator/obj/
